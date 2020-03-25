@@ -20,8 +20,12 @@ If you use the source code, please make sure to reference both the package and t
 
 > Vila-Vidal, M, & Clemente, A. (2020). MUST Toolbox v1.0, https://github.com/compaes/MUST. Zenodo, doi:***.
 
-> Clemente, A., Vila-Vidal, M. , Pearce, M. T., Aguiló, G., Corradi, G., Nadal, M. (2020). A Set of 200 Musical Stimuli Varying in Balance, Contour, Symmetry, and Complexity: Behavioral and Computational Assessments. _Behavior Research Methods_, doi:10.3758/s13428-019-01329-8.
+> Clemente, A., Vila-Vidal, M. , Pearce, M. T., Aguiló, G., Corradi, G., Nadal, M. (2020). A Set of 200 Musical Stimuli Varying in Balance, Contour, Symmetry, and Complexity: Behavioral and Computational Assessments. *Behavior Research Methods*, doi:10.3758/s13428-019-01329-8.
 
 If you use the <a href="https://osf.io/73mne/">MUST Set</a>, please make sure to reference it as follows:
 
-> Clemente, A., Vila-Vidal, M., Nadal, M., Pearce, M. T., Corradi, G., & Aguiló, G. (2019). MUST Set, doi:10.17605/OSF.IO/BFXZ7
+> Clemente, A., Vila-Vidal, M., Nadal, M., Pearce, M. T., Corradi, G., & Aguiló, G. (2019). MUST Set, osf.io/73mne.
+
+## License
+
+Epylib is a free open-source software released under the General Public License version 3.
