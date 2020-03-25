@@ -18,7 +18,7 @@ The package contains a file named `example.m` with an example of use of all the 
 
 If you use the source code, please make sure to reference both the package and the paper:
 
-> Vila-Vidal, M, & Clemente, A. (2020). MUST Toolbox v1.0, https://github.com/compaes/MUST. Zenodo, doi:***.
+> Vila-Vidal, M., & Clemente, A. (2020). MUST Toolbox v1.0, https://github.com/compaes/MUST. Zenodo, doi:***.
 
 > Clemente, A., Vila-Vidal, M. , Pearce, M. T., Aguiló, G., Corradi, G., Nadal, M. (2020). A Set of 200 Musical Stimuli Varying in Balance, Contour, Symmetry, and Complexity: Behavioral and Computational Assessments. *Behavior Research Methods*, https://doi.org/10.3758/s13428-019-01329-8.
 
