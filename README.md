@@ -18,10 +18,10 @@ The package contains a file named `example.m` with an example of use of all the 
 
 If you use the source code, please make sure to reference both the package and the paper:
 
-> Vila-Vidal, M, & Clemente, A. (2019). MUST Toolbox v1.0, https://github.com/compaes/MUST. Zenodo. (******)
+> Vila-Vidal, M, & Clemente, A. (2020). MUST Toolbox v1.0, https://github.com/compaes/MUST. Zenodo, doi:***.
 
-> Clemente, A., Vila-Vidal, M. , Pearce, M. T., Aguiló, G., Corradi, G., Nadal, M. (2019). A Set of 200 Musical Stimuli Varying in Balance, Contour, Symmetry, and Complexity: Behavioral and Computational Assessments. Under review.
+> Clemente, A., Vila-Vidal, M. , Pearce, M. T., Aguiló, G., Corradi, G., Nadal, M. (2020). A Set of 200 Musical Stimuli Varying in Balance, Contour, Symmetry, and Complexity: Behavioral and Computational Assessments. _Behavior Research Methods_, doi:10.3758/s13428-019-01329-8.
 
 If you use the <a href="https://osf.io/73mne/">MUST Set</a>, please make sure to reference it as follows:
 
-> Clemente, A., Vila-Vidal, M., Nadal, M., Pearce, M. T., Corradi, G., & Aguiló, G. (2019). MUST Set, https://osf.io/73mne.
+> Clemente, A., Vila-Vidal, M., Nadal, M., Pearce, M. T., Corradi, G., & Aguiló, G. (2019). MUST Set, doi:10.17605/OSF.IO/BFXZ7
