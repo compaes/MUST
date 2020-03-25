@@ -1,6 +1,6 @@
 # MUST Toolbox
 
-[![DOI]()]() 
+[![DOI](https://zenodo.org/badge/189009372.svg)](https://zenodo.org/badge/latestdoi/189009372)
 
 MUST is a MATLAB toolbox containing a set of functions to analyze the computational properties of musical stimuli saved in MIDI format. Functions to assess Balance, Contour, Symmetry and Complexity are provided. A comprehensive description and formulation of the computational measures can be found in the Appendix B of the article cited at the end of this README file (included in the package). A set of musical stimuli to be used together with these measures can be found in <a href="https://osf.io/73mne/">MUST Set</a>.
 
@@ -18,7 +18,7 @@ The package contains a file named `example.m` with an example of use of all the 
 
 If you use the source code, please make sure to reference both the package and the paper:
 
-> Vila-Vidal, M., & Clemente, A. (2020). MUST Toolbox v1.0, https://github.com/compaes/MUST. Zenodo, doi:***.
+> Vila-Vidal, M., & Clemente, A. (2020). MUST Toolbox v1.0, https://github.com/compaes/MUST. Zenodo, https://doi.org/10.5281/zenodo.3726849.
 
 > Clemente, A., Vila-Vidal, M. , Pearce, M. T., Aguiló, G., Corradi, G., Nadal, M. (2020). A Set of 200 Musical Stimuli Varying in Balance, Contour, Symmetry, and Complexity: Behavioral and Computational Assessments. *Behavior Research Methods*, https://doi.org/10.3758/s13428-019-01329-8.
 
