@@ -13,8 +13,8 @@ function y=durAbruptness(nmat)
 
 N=size(nmat,1);
 p=nmat(:,4);
-o=onset(nmat,'sec');
-d=dur(nmat,'sec');
+o=nmat(:,6);
+d=nmat(:,7);
 D=o(end)+d(end);
 da=duraccent(d);
 da=d;

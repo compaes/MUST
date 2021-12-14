@@ -18,4 +18,3 @@ ed=N/sum(nmat(end,6:7));
 
 
 end
-
