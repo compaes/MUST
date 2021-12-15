@@ -1,6 +1,6 @@
 # MUST Toolbox
 
-[![DOI](https://zenodo.org/badge/189009372.svg)](https://zenodo.org/badge/latestdoi/189009372)
+[![DOI: MUST Toolbox](https://zenodo.org/badge/189009372.svg)](https://zenodo.org/badge/latestdoi/189009372)
 
 MUST is a MATLAB toolbox containing a set of functions to analyze the computational properties of musical stimuli saved in MIDI format. Functions to assess Balance, Contour, Symmetry and Complexity are provided. A comprehensive description and formulation of the computational measures can be found in the Appendix B of the article cited at the end of this README file (included in the package). Two sets of musical stimuli to be used together with these measures can be found in <a href="https://osf.io/73mne/">MUST Set</a> and <a href="https://osf.io/k6gme/">NatMUST Set</a>, respectively consisting of composed stimuli and naturalistic stimuli curated from the Western classical repertoire (spanning the 14th-20th centuries).
 
@@ -20,21 +20,13 @@ There is an additional file named `mustcsv.m` which includes reference code for 
 
 ## Citation
 
-If you use the source code, please make sure to reference both the package and the papers accordingly:
-
-> Vila-Vidal, M., & Clemente, A. (2020). MUST Toolbox v1.0, https://github.com/compaes/MUST. Zenodo, https://doi.org/10.5281/zenodo.3726849.
+If you use the source code or the <a href="https://osf.io/73mne/">MUST Set</a>, please make sure to reference the paper:
 
 > Clemente, A., Vila-Vidal, M. , Pearce, M. T., Aguiló, G., Corradi, G., Nadal, M. (2020). A Set of 200 Musical Stimuli Varying in Balance, Contour, Symmetry, and Complexity: Behavioral and Computational Assessments. *Behavior Research Methods*, https://doi.org/10.3758/s13428-019-01329-8.
 
+If you use the <a href="https://osf.io/k6gme/">NatMUST Set</a>, please make sure to reference the paper:
+
 > Clemente, A., Kaplan, T. M., Pearce, M. T. (2021). The Naturalistic MUsical STimulus (NatMUST) set: 96 Excerpts Varying in Balance, Contour, Symmetry, and Complexity. *In Preparation*.
-
-If you use the <a href="https://osf.io/73mne/">MUST Set</a>, please make sure to reference it as follows:
-
-> Clemente, A., Vila-Vidal, M., Nadal, M., Pearce, M. T., Corradi, G., & Aguiló, G. (2020). MUST Set, https://doi.org/10.17605/OSF.IO/73MNE.
-
-If you use the <a href="https://osf.io/k6gme/">NatMUST Set</a>, please make sure to reference it as follows:
-
-> Clemente, A., Kaplan, T. M., & Pearce, M. T. (2021). NatMUST Set, https://doi.org/10.17605/OSF.IO/k6gme.
 
 
 ## License
