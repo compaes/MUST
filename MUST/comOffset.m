@@ -14,8 +14,9 @@ function y=comOffset(nmidi)
 % Authors: Manel Vila-Vidal & Ana Clemente (2019)
 
     onset =nmidi(:,1);
+    duration=nmidi(:,2);
     
-    T=onset(end)-onset(1);
+    T=onset(end)+duration(end)-onset(1);
     temporal_center=1/2;
     
     mass_center=mean(onset)/T;

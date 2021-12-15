@@ -45,8 +45,9 @@ if ~exist('wstep','var')
 end
 
 onset =nmat(:,1);
+duration = nmat(:,2);
 N=size(onset,1);
-T=onset(end)-onset(1);
+T=onset(end)+duration(end)-onset(1);
 if isfloat(wlength)&isfloat(wstep)
     localexpecteddens=(N-1)/T;
 elseif isstr(wlength)
@@ -57,7 +58,7 @@ elseif isstr(wlength)
     wstep=wstep*wlength;
 end
 j=1;
-for t=0:wstep:onset(end)-wlength
+for t=0:wstep:T-wlength
     y(j)=sum((round(onset,3)>=round(t,3)).*(round(onset,3)<round(t+wlength,3)))/wlength/localexpecteddens;
     ct(j)=abs((  t+(wlength/2)  -(T/2)))/(T/2);
     j=j+1;

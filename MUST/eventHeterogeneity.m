@@ -35,7 +35,8 @@ end
 
 [dens, ct, w]=localunbalance(nmat,wlength,wstep);
 onset =nmat(:,1);
-T=onset(end)-onset(1);
+duration=nmat(:,2);
+T=onset(end)+duration(end)-onset(1);
 S=size(dens,2);
 pond=ct;
 y=sum(((dens-1).^2).*pond)/sum(pond);
