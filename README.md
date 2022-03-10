@@ -31,4 +31,4 @@ If you use the <a href="https://osf.io/k6gme/">NatMUST Set</a>, please make sure
 
 ## License
 
-Epylib is a free open-source software released under the General Public License version 3.
+The MUST Toolbox is a free open-source software released under the General Public License version 3.
