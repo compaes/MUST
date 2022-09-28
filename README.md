@@ -34,4 +34,7 @@ If you use the <a href="https://osf.io/k6gme/">NatMUST Set</a>, please make sure
 The MUST Toolbox is a free software; you can redistribute it and/or modify it under the terms of the GNU General Public License v3.0 as published by the Free Software Foundation.
 
 Copyright (C) 2020, Manel Vila-Vidal, Ana Clemente
+
 Copyright (C) 2022, T. M. Kaplan
+
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
