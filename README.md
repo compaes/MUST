@@ -31,4 +31,7 @@ If you use the <a href="https://osf.io/k6gme/">NatMUST Set</a>, please make sure
 
 ## License
 
-The MUST Toolbox is a free open-source software released under the General Public License version 3.
+The MUST Toolbox is a free software; you can redistribute it and/or modify it under the terms of the GNU General Public License v3.0 as published by the Free Software Foundation.
+
+Copyright (C) 2020, Manel Vila-Vidal, Ana Clemente
+Copyright (C) 2022, T. M. Kaplan
