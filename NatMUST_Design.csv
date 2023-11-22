@@ -1,0 +1,97 @@
+Stimulus,Subset,ComposerSurname,ComposerName,Year,Work,Movement_Act_RehearsalNumber,Instrument,Instrumentation,Genre_Type,Pole,Notes,Melody,Tempo,TimeSignature,Mode,MinPitch(MIDI),MaxPitch(MIDI),PitchRange(MIDI distance),Duration(s)
+B1,B,Bartók,B.,1938,Contrasts Sz. 111 BB 116,,Vl.,Chamber,Rhapsody,Balanced,,B1,100,4/4,-,60,73,13,3.60
+B2,B,Bartók,B.,1938,Contrasts Sz. 111 BB 117,,Cl.,Chamber,Rhapsody,Unbalanced,,B2,96,4/4,-,69,76,7,2.19
+B3,B,Bitsch,M.,1948,Concertino,,Fg.,Solo–Orchestra,Concertino,Balanced,,B3,120,4/4,-,52,66,14,3.50
+B4,B,Bitsch,M.,1948,Concertino,,Fg.,Solo–Orchestra,Concertino,Unbalanced,,B4,100,4/4,-,45,71,26,5.10
+B5,B,Czerny,C.,1829,Fantasia à quatre mains Op. 226,,Pn. 1,Chamber,Fantasia,Balanced,,B5,80,4/4,F-m,64,68,4,1.41
+B6,B,Czerny,C.,1829,Fantasia à quatre mains Op0. 226,,Pn. 1,Chamber,Fantasia,Unbalanced,,B6,160,4/4,F-m,56,65,9,1.50
+B7,B,Debussy,C.,1904,Rhapsodie pour Orchestre et Saxophone,,Vl.,Solo–Orchestra,Rhapsody,Balanced,,B7,120,2/4,-,74,80,6,4.00
+B8,B,Debussy,C.,1904,Rhapsodie pour Orchestre et Saxophone,,Vl.,Solo–Orchestra,Rhapsody,Unbalanced,,B8,90,6/8,-,68,80,12,4.00
+B9,B,Dutilleux,H.,1942,Sarabande et Cortège,,Fg.,Chamber,Saraband,Balanced,,B9,80,3/4,-,65,69,4,2.63
+B10,B,Dutilleux,H.,1942,Sarabande et Cortège,,Fg.,Chamber,Saraband,Unbalanced,,B10,60,3/4,-,55,70,15,3.00
+B11,B,Frescobaldi,G.,ca. 1637,Toccata,,Gt. 1,Solo,Toccata,Balanced,,B11,80,4/4,C-M,81,88,7,3.00
+B12,B,Frescobaldi,G.,ca. 1637,Toccata,,Gt. 1,Solo,Toccata,Unbalanced,,B12,80,4/4,C-M,81,86,5,3.00
+B13,B,Klughardt,A.,1902,Andante und Toccata Op. 91,,Organ,Solo,Andante,Balanced,,B13,80,3/4,F-M,53,65,12,4.88
+B14,B,Klughardt,A.,1902,Andante und Toccata Op. 92,,Organ,Solo,Andante,Unbalanced,,B14,80,3/4,F-m,70,82,12,4.88
+B15,B,Monteverdi,C.,1638,Madrigali Guerrieri et Amorosi in genere rappresentativo,,Voice,Choir,Madrigal,Balanced,,B15,160,3/1,G-M,66,71,5,5.06
+B16,B,Monteverdi,C.,1638,Madrigali Guerrieri et Amorosi in genere rappresentativo,,Voice,Choir,Madrigal,Unbalanced,,B16,160,4/4,A-m,69,76,7,5.06
+B17,B,Rossini,G.,1829,Fantaisie,,Cl.,Chamber,Fantasia,Balanced,,B17,60,6/8,Eb-M,39,58,19,2.33
+B18,B,Rossini,G.,1829,Fantaisie,,Cl.,Chamber,Fantasia,Unbalanced,,B18,60,6/8,Eb-M,51,79,28,2.33
+B19,B,Strauss,R.,1903,Salome,7,Vl. 1,Opera,Opera,Balanced,,B19,80,3/2,-,55,69,14,6.00
+B20,B,Strauss,R.,1903,Salome,9,Ob.,Opera,Opera,Unbalanced,,B20,80,4/4,-,60,81,21,5.25
+B21,B,Stravinsky,I.,1911,Petrushka,71,Fg. 1,Orchestra,Ballet,Balanced,,B21,90,3/4,Eb-M,62,75,13,4.00
+B22,B,Stravinsky,I.,1911,Petrushka,132,Tr. 1,Orchestra,Ballet,Unbalanced,,B22,60,3/4,F-m,72,84,12,4.00
+B23,B,Vivaldi,A.,ca. 1720–30,Sonata IV,Sarabanda,Vcl.,Solo,Saraband,Balanced,,B23,60,3/4,F-M,60,77,17,7.00
+B24,B,Vivaldi,A.,ca. 1720–31,Sonata IV,Sarabanda,Vcl.,Solo,Saraband,Unbalanced,,B24,60,3/4,F-M,65,77,12,7.00
+C1,C,Bach,C. P. E.,1765,Oboe Concerto,I,Ob.,Solo–Orchestra,Concerto,Smooth,,C1,140,4/4,Bb-M,62,79,17,7.29
+C2,C,Bach,C. P. E.,1765,Oboe Concerto,I,Vl. 1,Solo–Orchestra,Concerto,Jagged,,C2,108,4/4,Bb-M,58,72,14,7.22
+C3,C,Boëly,A. P. F.,1817,Caprices ou Pièces d’Étude Op. 2,,Pn.,Solo,Caprice,Smooth,,C3,96,3/4,C-M,67,76,9,5.94
+C4,C,Boëly,A. P. F.,1817,Caprices ou Pièces d’Étude Op. 2,,Pn.,Solo,Caprice,Jagged,,C4,90,6/8,Bb-M,58,79,21,5.67
+C5,C,Buxtehude,D.,ca. 1698,Viola da Gamba Sonata BuxWV 268,,Vla. g.,Solo,Sonata,Smooth,,C5,180,6/4,D-M,54,69,15,8.67
+C6,C,Buxtehude,D.,ca. 1698,Viola da Gamba Sonata BuxWV 269,,Vla. g.,Solo,Sonata,Jagged,,C6,132,4/4,D-M,38,67,29,8.41
+C7,C,Hummel,J. N.,ca. 1834,Etüden Op. 125 No. 2,,Pn.,Solo,Etude,Smooth,,C7,100,4/4,A-M,64,73,9,4.80
+C8,C,Hummel,J. N.,ca. 1834,Etüden Op. 125 No. 16,,Pn.,Solo,Etude,Jagged,,C8,112,4/4,A-M,54,95,41,4.82
+C9,C,Hummel,J. N.,ca. 1834,Etüden Op. 125 No. 15,,Pn.,Solo,Etude,Smooth,,C9,108,3/4,G-M,62,88,26,7.22
+C10,C,Hummel,J. N.,ca. 1834,Etüden Op. 125 No. 10,,Pn.,Solo,Etude,Jagged,,C10,140,2/4,Ab-M,44,92,48,7.29
+C11,C,Jolivet,A.,1943,Pastorales de Noël,,Fg.,Chamber,Theatre,Smooth,,C11,120,4/4,D-Frygian,50,63,13,10.00
+C12,C,Jolivet,A.,1963,Sonatine for Oboe and Bassoon,,Ob.,Chamber,Sonatine,Jagged,,C12,132,2/2,-,66,81,15,10.00
+C13,C,Mahler,G.,1902,Symphony No. 5,15,Vl. I,Orchestra,Symphony,Smooth,,C13,180,3/4,F-m,77,84,7,6.00
+C14,C,Mahler,G.,1902,Symphony No. 5,22,Vl. I,Orchestra,Symphony,Jagged,,C14,180,3/4,F-m,65,89,24,5.67
+C15,C,Messiaen,O.,1932,Apparition de l’Église éternelle,,Org.,Solo,Piece,Smooth,,C15,60,4/4,-,76,82,6,7.00
+C16,C,Messiaen,O.,1952,Le Merle Noir,,Fl.,Chamber,Piece,Jagged,,C16,60,4/4,-,69,91,22,7.00
+C17,C,Ravel,M.,1931,Concerto in G,II 6,C. an.,Solo–Orchestra,Concerto,Smooth,,C17,52,3/4,E-M,64,68,4,3.46
+C18,C,Ravel,M.,1931,Concerto in G,III 12,Pn.,Solo–Orchestra,Concerto,Jagged,,C18,140,2/4,E-M,49,95,46,3.43
+C19,C,Schubert,F.,1824,Im Abendrot,,Pn.,Chamber,Lied,Smooth,,C19,80,4/4,Ab-M,70,75,5,4.50
+C20,C,Schubert,F.,1824,Divertissement á la hongroise Op. 54 D818,,Pn. I,Chamber,Divertimento,Jagged,,C20,120,2/4,Bb-M,74,88,14,4.31
+C21,C,Stravinsky,I.,1911,Petrushka,65,Cl. I,Orchestra,Ballet,Smooth,,C21,80,3/4,D-Dorian,60,69,9,7.88
+C22,C,Stravinsky,I.,1911,Petrushka,65,Fg. I,Orchestra,Ballet,Jagged,,C22,120,2/4,-,52,70,18,7.50
+C23,C,Tchaikovsky,P. I. ,1882,Trio Op. 50,I,Vcl.,Chamber,Elegy,Smooth,,C23,60,4/4,C-M,57,64,7,6.00
+C24,C,Tchaikovsky,P. I. ,1882,Trio Op. 50,I,Pn.,Chamber,Elegy,Jagged,,C24,120,4/4,C-M,60,89,29,5.88
+K1,K,Beethoven,L. van,1806,32 Variationen WoO 80,Var. VII,Pn.,Solo,Variations,Simple,,K1,120,3/4,C-m,83,92,9,4.25
+K2,K,Beethoven,L. van,1806,32 Variationen WoO 80,Var. VIII,Pn.,Solo,Variations,Complex,,K2,120,3/4,C-m,79,92,13,4.25
+K3,K,Berg,A.,1908,12 Variationen über ein eigenes Thema,Thema,Pn.,Solo,Variations,Simple,,K3,80,2/4,C-M,60,77,17,6.38
+K4,K,Berg,A.,1908,12 Variationen über ein eigenes Thema,Var. VIII,Pn.,Solo,Variations,Complex,,K4,120,3/4,C-M,48,91,43,6.50
+K5,K,Chopin,F.,1833,Variations brillantes Op. 12,,Pn.,Solo,Variations,Simple,,K5,80,6/8,Bb-M,65,74,9,6.00
+K6,K,Chopin,F.,1833,Variations brillantes Op. 12,,Pn.,Solo,Variations,Complex,,K6,80,6/8,Bb-M,64,87,23,6.00
+K7,K,Corelli,A.,1700,La follia,Theme,-,Solo,Variations,Simple,,K7,60,3/4,D-m,72,79,7,8.00
+K8,K,Corelli,A.,1700,La follia,Var. XIII,-,Solo,Variations,Complex,,K8,120,12/8,D-m,57,77,20,8.00
+K9,K,Mozart,W. A.,1781,"Twelve Variations on ""Ah vous dirai-je Maman"" K. 265/300e",Theme,Pn.,Solo,Variations,Simple,,K9,120,2/4,C-M,72,81,9,7.50
+K10,K,Mozart,W. A.,1781,"Twelve Variations on ""Ah vous dirai-je Maman"" K. 265/300e",Var.,Pn.,Solo,Variations,Complex,,K10,120,2/4,C-M,71,88,17,7.50
+K11,K,Nussio,O.,1953,Variations on an Arietta by Pergolesi,I. Arietta,Fg.,Chamber,Variations,Simple,,K11,96,3/4,G-m,42,50,8,7.50
+K12,K,Nussio,O.,1953,Variations on an Arietta by Pergolesi,II. Scherzetto,Fg.,Chamber,Variations,Complex,,K12,80,5/8,G-m,42,62,20,5.50
+K13,K,Respighi,O.,1921,Adagio con variazioni P. 133,Adagio,Vcl.,Solo–Orchestra,Variations,Simple,,K13,120,4/4,B-M,58,71,13,9.00
+K14,K,Respighi,O.,1921,Adagio con variazioni P. 133,Var. I,Vcl.,Solo–Orchestra,Variations,Complex,,K14,120,4/4,B-M,51,80,29,9.00
+K15,K,Scarlatti,D.,ca. 1720,Sonata K. 61,,Keyboard,Solo,Variations,Simple,,K15,120,2/4,A-m,57,76,19,6.00
+K16,K,Scarlatti,D.,ca. 1720,Sonata K. 62,,Keyboard,Solo,Variations,Complex,,K16,120,2/4,A-m,68,83,15,6.00
+K17,K,Schönberg,A.,1943,Theme and variations Op. 43,Theme,Pn.,Orchestra,Variations,Simple,,K17,80,4/4,-,63,72,9,9.75
+K18,K,Schönberg,A.,1943,Theme and variations Op. 43,Var. V,Pn.,Orchestra,Variations,Complex,,K18,80,4/4,-,67,80,13,9.75
+K19,K,Schubert,F.,1810,Sieben leichte Variationen in G,Theme,Pn.,Solo,Variations,Simple,,K19,140,4/4,G-M,67,74,7,6.86
+K20,K,Schubert,F.,1810,Sieben leichte Variationen in G,Variation V,Pn.,Solo,Variations,Complex,,K20,140,4/4,G-M,54,74,20,5.57
+K21,K,Schumann,R.,1843,Andante und variationen Op. 46,Andante,Pn.,Chamber,Variations,Simple,,K21,120,3/4,Bb-M,64,81,17,6.00
+K22,K,Schumann,R.,1843,Andante und variationen Op. 46,Var.,Pn.,Chamber,Variations,Complex,,K22,120,3/4,Bb-M,58,87,29,6.00
+K23,K,Tchaikovsky,P. I.,1864,Tema con variazioni TH121,Tema,Pn.,Solo,Variations,Simple,,K23,100,3/4,A-m,69,76,7,6.60
+K24,K,Tchaikovsky,P. I.,1864,Tema con variazioni TH121,Var. II,Pn.,Solo,Variations,Complex,,K24,100,3/4,A-m,44,74,30,6.60
+S1,S,Bach,J. S.,1747,Musikalisches Opfer BWV 1079,Canon Cancrizantz,-,Solo,Canon,Symmetric,,S1,180,4/4,F-M,64,77,13,10.33
+S2,S,Bach,J. S.,1747,Musikalisches Opfer BWV 1080,Canon Cancrizantz,-,Solo,Canon,Asymmetric,,S2,90,4/4,F-M,65,77,12,10.00
+S3,S,Bach,J. S.,ca. 1740,Canon,,-,Solo,Canon,Symmetric,,S3,96,2/4,C-m,60,77,17,8.44
+S4,S,Bach,J. S.,ca. 1740,Canon,,-,Solo,Canon,Asymmetric,,S4,120,4/4,C-m,60,77,17,8.63
+S5,S,Berg,A.,1935,Lulu,Act II,Various,Opera,Opera,Symmetric,,S5,50,4/4,-,60,97,37,4.40
+S6,S,Berg,A.,1935,Lulu,Act II,Various,Opera,Opera,Asymmetric,,S6,140,4/4,-,61,97,36,3.86
+S7,S,Haydn,F. J.,ca. 1772,Symphony No. 47 Hob. I/47,Menuet al roverso,Vl.,Orchestra,Minuet,Symmetric,,S7,420,3/4,G-M,62,81,19,8.57
+S8,S,Haydn,F. J.,ca. 1785,12 Minuets Hob.IX:8,Minuet X,Pn.,Solo,Minuet,Asymmetric,,S8,168,3/4,G-M,67,84,17,8.57
+S9,S,Haydn,F. J.,ca. 1772,Symphony No. 47 Hob. I/47,Trio al reverso,Vl.,Orchestra,Trio,Symmetric,,S9,120,3/4,G-M,74,84,10,3.33
+S10,S,Haydn,F. J.,1787,Symphony Nr. 88,Trio,Vl.,Orchestra,Trio,Asymmetric,,S10,72,3/4,G-M,67,76,9,3.33
+S11,S,Hindemith,P.,1942,Ludus Tonalis,Fuga tertia in F,Pn.,Solo,Fugue,Symmetric,,S11,130,4/4,-,65,75,10,9.23
+S12,S,Hindemith,P.,1942,Ludus Tonalis,Fuga tertia in F,Pn.,Solo,Fugue,Asymmetric,,S12,120,4/4,-,65,77,12,9.25
+S13,S,Machaut,G.,ca. 1350,Ma fin est mon commencement,Cantus,Voice,Choir,Rondeau,Symmetric,,S13,200,4/4,A-m,69,76,7,8.40
+S14,S,Machaut,G.,ca. 1350,Ma fin est mon commencement,Triplum,Voice,Choir,Rondeau,Asymmetric,,S14,170,4/4,A-m,67,76,9,8.47
+S15,S,Ravel,M.,1931,Concerto in G,9,Pn.,Solo–Orchestra,Concerto,Symmetric,,S15,60,3/4,-,56,85,29,5.11
+S16,S,Ravel,M.,1931,Concerto in G,II 4,Pn.,Solo–Orchestra,Concerto,Asymmetric,,S16,90,3/4,-,70,92,22,4.00
+S17,S,Schönberg,A.,1949,Dreimal tausend Jahre Op. 50A,,Voice,Choir,Song,Symmetric,Quasi,S17,100,6/4,-,68,75,7,6.30
+S18,S,Schönberg,A.,1949,Dreimal tausend Jahre Op. 50A,,Voice,Choir,Song,Asymmetric,,S18,100,6/4,-,68,75,7,6.60
+S19,S,Stravinsky,I.,1919,L’Oiseau de feu,33,Fl. I,Orchestra,,Symmetric,,S19,80,3/4,-,67,73,6,3.84
+S20,S,Stravinsky,I.,1919,L’Oiseau de feu,35,Fl. I,Orchestra,,Asymmetric,,S20,80,3/4,-,66,73,7,3.75
+S21,S,Webern,A.,1936,Variations Op. 27,Variation I,Pn.,Solo,Variations,Symmetric,,S21,60,3/16,-,48,77,29,2.25
+S22,S,Webern,A.,1936,Variations Op. 27,Variation I,Pn.,Solo,Variations,Asymmetric,,S22,60,3/16,-,64,77,13,2.00
+S23,S,Webern,A.,1936,Variations Op. 27,Variation I,Pn.,Solo,Variations,Symmetric,,S23,60,3/16,-,58,76,18,4.75
+S24,S,Webern,A.,1936,Variations Op. 27,Variation I,Pn.,Solo,Variations,Asymmetric,,S24,60,3/16,-,63,83,20,4.25
